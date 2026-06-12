@@ -1,0 +1,6 @@
+{
+  "name": "Trinetra Case Portal",
+  "description": "An investigation scenarios and datasets portal for analyzing CDR/IPDR records using the Trinetra tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
